@@ -1,2 +1,2 @@
 timestamp,temperatura,humedad,luz,calidad_aire,tierra_h
-2025-06-06T23:00:00,23.1,56.9,1879,1012.8,42.3
+2025-06-07T00:00:00,25.0,61.1,1999,1008.7,48.5
